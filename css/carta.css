@@ -1,10 +1,10 @@
 * 
 body div img{
-    width: 200px;       
-    height: 200px;
+    width: 1254px;
+    height: 98%;
     position: absolute;
-    top:50%;
-    left: 50%;           
+    top: 5%;
+    left: 40%;
     margin-top: -100px;
     margin-left: -100px;
 }

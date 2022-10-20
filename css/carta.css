@@ -1,5 +1,6 @@
 * 
-img{
-    display: block;
+body div img{
+    padding: auto;
     margin: auto;
+    display: flex;
 }

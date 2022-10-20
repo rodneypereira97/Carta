@@ -1,6 +1,6 @@
 * 
 body div img{
-    padding: auto;
-    margin: auto;
+    padding: 100%;
+    margin: 100%;
     display: flex;
 }

@@ -30,7 +30,7 @@
 }
 
 .slide-control {
-    background: rgba(0, 0, 0, 0.28);
+    background:rgb(252, 251, 251);
     border-radius: 50%;
     color: #fff;
     cursor: pointer;
@@ -53,12 +53,22 @@
     left: 2%;
 }
 
+.slide-control.prev img{
+    left: 2%;
+    max-width: 40;
+}
+
 .slide-control.next {
     right: 2%;
 }
 
+.slide-control.next img {
+    right: 2%;
+    max-width: 40;
+}
+
 .slide-control:hover {
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(248, 9, 9, 0.8);
     color: #aaaaaa;
 }
 

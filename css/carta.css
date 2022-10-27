@@ -9,6 +9,7 @@
     position: relative;
     overflow: hidden;
     width: 100%;
+    max-width: 80%;
 }
 
 .slide-open:checked+.slide-item {
